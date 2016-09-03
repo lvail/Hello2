@@ -13,7 +13,9 @@ public class Hello2 {
 	{
 		Hello2 app = new Hello2();
 		app.message("Hello GitHub via jGrasp (ldv)");
-		app.message("add a 2nd line of text");
+		app.message("line2");
+		app.message("line3");
+		app.message("line4");
 	}
 
 	void message(String s)
